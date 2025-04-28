@@ -119,9 +119,17 @@ The Opera categorizes its collected sounds based on their primary observable pro
 
     ## 🧁 Chef scientist notes
 
-    Since my pet recognized a similar pastry on Earth we should send an expedition troup to find out if "Jonefkendy" is of relevance for Earthlings.
+    Since my pet recognized a similar pastry on Earth we should send an expedition troup to find out if "Yckb'n Ein Jonefkendy" is of relevance for Earthlings.
 
-    Lucy.
+    -Lucy
+
+    Why don't you just ask your assistant?
+
+    -Zebulon
+
+    Stop using the note sections as direct message replacements Zebulon!
+
+    -Lucy
 
 
 
