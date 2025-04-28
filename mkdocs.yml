@@ -35,8 +35,9 @@ nav:
   - About: about.md
   - Curiosities: curiosities/index.md
   - Researchers: researchers/index.md
-  - Sound Archive: sound-archive/index.md
-  - voc-17993 — Confused Confection of Velbora: sound-archive/voc-17993.md
+  - Sound Archive:
+      - Overview: sound-archive/index.md
+      - voc-17993 — Confused Confection of Velbora: sound-archive/voc-17993.md
   - Visitor Log: visitor_log.md
   - Contact: contact.md
 
