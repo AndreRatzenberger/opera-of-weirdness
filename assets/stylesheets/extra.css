@@ -1,0 +1,49 @@
+/* Cosmic Opera Custom Styles */
+
+:root {
+    --md-primary-fg-color: #6c0bce;
+    --md-accent-fg-color: #00f7ff;
+  }
+  
+  /* Pulsing links on hover */
+  a:hover {
+    text-decoration: underline;
+    animation: pulse 1s infinite alternate;
+  }
+  
+  @keyframes pulse {
+    from {
+      color: #00f7ff;
+    }
+    to {
+      color: #ff00ff;
+    }
+  }
+  
+  /* Floating effect for images */
+  img {
+    transition: transform 2s ease-in-out;
+  }
+  
+  img:hover {
+    transform: translateY(-5px) scale(1.02);
+  }
+  
+  /* Starry background for the header */
+  .md-header {
+    background: linear-gradient(135deg, #0a0a23 0%, #1a1a4d 100%), url('https://upload.wikimedia.org/wikipedia/commons/4/49/Starfield_simulation.jpg') center/cover no-repeat;
+    background-blend-mode: overlay;
+  }
+  
+  /* Code block style */
+  code, pre {
+    background-color: #1a1a3d !important;
+    border: 1px solid #6c0bce;
+    border-radius: 5px;
+    padding: 4px 8px;
+  }
+  
+  /* Button hover glow */
+  .md-button:hover {
+    box-shadow: 0 0 8px #00f7ff, 0 0 16px #ff00ff;
+  }
