@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Opera of Weirdness</title>
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Roboto&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            background-color: #0a0a23;
+            font-family: 'Roboto', sans-serif;
+            color: #e0e0e0;
+        }
+        header {
+            background-color: #14143f;
+            padding: 20px;
+            text-align: center;
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2rem;
+            color: #ff00ff;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+        nav {
+            background-color: #1a1a3d;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            padding: 10px;
+        }
+        nav a {
+            color: #00ffff;
+            text-decoration: none;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        nav a:hover {
+            color: #ff00ff;
+        }
+        .section {
+            padding: 40px 20px;
+            max-width: 1000px;
+            margin: auto;
+        }
+        .section h2 {
+            font-family: 'Orbitron', sans-serif;
+            color: #00ffff;
+            border-bottom: 2px solid #ff00ff;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        footer {
+            background-color: #14143f;
+            color: #888;
+            text-align: center;
+            padding: 20px;
+            font-size: 0.9rem;
+            margin-top: 40px;
+        }
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+        }
+        .curiosity-card {
+            background-color: #1a1a3d;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.5);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        .curiosity-card:hover {
+            transform: translateY(-5px);
+        }
+        img.concept-art {
+            width: 100%;
+            border-radius: 10px;
+            margin-top: 20px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.7);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        Opera of Weirdness
+    </header>
+    <nav>
+        <a href="#about">About</a>
+        <a href="#curiosities">Curiosities</a>
+        <a href="#sound">Sound Archive</a>
+        <a href="#researchers">Researchers</a>
+        <a href="#visitorlog">Visitor Log</a>
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <section id="about" class="section">
+        <h2>About</h2>
+        <p>The Opera of Weirdness was founded after a catastrophic tea-related quantum incident by Zebulon Quirkythrum III. It stands proudly as the galaxy's finest (and only) interdimensional sound collection society.</p>
+        <img src="https://placehold.co/600x400/14143f/ff00ff?text=Opera+of+Weirdness+Concept+Art" alt="Opera of Weirdness Concept Art" class="concept-art">
+    </section>
+
+    <section id="curiosities" class="section">
+        <h2>Curiosities</h2>
+        <div class="grid">
+            <div class="curiosity-card">The Bioluminescent Ballad of the Deep Sea Dreamers</div>
+            <div class="curiosity-card">The Resonance of the Neon Abyss</div>
+            <div class="curiosity-card">The Technorganic Tunes of the Cyber Forest</div>
+            <div class="curiosity-card">The Gravirhythm Wells of Singulon</div>
+        </div>
+    </section>
+
+    <section id="sound" class="section">
+        <h2>Sound Archive</h2>
+        <p>Explore a library of cosmic bleeps, plasma whistles, temporal distortions, and eldritch melodies. Sound samples coming soon!</p>
+    </section>
+
+    <section id="researchers" class="section">
+        <h2>Researchers</h2>
+        <p>Meet Lucy the Cat, Senior Dimensional Sound Hunter, and other peculiar members of our elite audio expedition team!</p>
+        <img src="https://placehold.co/600x400/1a1a3d/00ffff?text=Researcher+-+Lucy+and+You" alt="Researcher - Lucy and You" class="concept-art">
+        <img src="https://placehold.co/600x400/1a1a3d/00ffff?text=Portrait+of+Zebulon+Quirkythrum+III" alt="Portrait of Zebulon Quirkythrum III" class="concept-art">
+    </section>
+
+    <section id="visitorlog" class="section">
+        <h2>Visitor Log</h2>
+        <p>"Entered for the snacks, left as a sentient guitar riff. 5/5 stars." – Interstellar Reviewer</p>
+    </section>
+
+    <section id="contact" class="section">
+        <h2>Contact</h2>
+        <p>Lost your socks in a sound vortex? Need to donate a cosmic bleep? Contact the Grand Custodians of Weirdness here.</p>
+    </section>
+
+    <footer>
+        &copy; 2025 Opera of Weirdness. All dimensions reserved.
+    </footer>
+</body>
+</html>
