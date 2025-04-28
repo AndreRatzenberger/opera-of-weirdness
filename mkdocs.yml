@@ -1,0 +1,55 @@
+site_name: Opera of Weirdness
+site_description: Cosmic oddities and universal absurdities
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: deep purple
+      accent: cyan
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - scheme: slate
+      primary: deep purple
+      accent: pink
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - navigation.tabs
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+    - content.code.annotate
+  custom_dir: overrides
+
+nav:
+  - Home: index.md
+  - About: about.md
+  - Curiosities: curiosities/index.md
+  - Researchers: researchers/index.md
+  - Sound Archive: sound-archive/index.md
+  - Visitor Log: visitor_log.md
+  - Contact: contact.md
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - pymdownx.details
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+
+extra_css:
+  - assets/stylesheets/extra.css

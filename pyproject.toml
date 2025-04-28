@@ -1,0 +1,21 @@
+[project]
+name = "opera-of-weirdness"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Andre Ratzenberger", email = "andre.ratzenberger@whiteduck.de" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.6.12",
+    "pymdown-extensions>=10.15",
+]
+
+[project.scripts]
+opera-of-weirdness = "opera_of_weirdness:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
