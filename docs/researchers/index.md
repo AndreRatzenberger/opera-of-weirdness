@@ -16,5 +16,5 @@ From cataloging the bioluminescent arias of underwater dreamers to recording the
 
 | ![Lucy](/assets/researchers/lucy.png) | ![Cyanism](/assets/researchers/lucy.png) | ![Zebulon](/assets/researchers/zebulon.png) |
 |:-----------------------------------:|:----------------------------------------:|:----------------------------------------:|
-| **Lucy the Cat** | **Cyanism** | **Zebulon Quirkythrum III** |
+| **Lucy the Cat** | **André (earth name) / Cyan (intergalactic pet registry, registered by Lucy)** | **Zebulon Quirkythrum III** |
 | Senior Dimensional Sound Hunter, Head of Expedition | Lucy's trusty assistant... or pet, depending on her mood. He didn't know he was either until yesterday and has had a permanently shocked expression since.| Founder, Chief Absurdity Coordinator, part-time baker |

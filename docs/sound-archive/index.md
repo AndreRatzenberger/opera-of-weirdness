@@ -35,9 +35,9 @@ The Opera categorizes its collected sounds based on their primary observable pro
 
     ## 📜 Research Report
 
-    A client of the renowned Bakery of Mistwreath & Sons discovered that applying precise pressure — using all thirty-six fingers on each hand — to a particular **gelatinous confection** caused it to emit a curious sound:
+    A client of the renowned Bakery of Mistwreath & Sons discovered that applying precise pressure — using all thirty-six fingers on each Velboran hand — to a particular **gelatinous confection** caused it to emit a curious sound sounding like:
 
-    > **"Yckb'n Ein Jonefkendy"**
+    > **"Yckb'n-ein Jonefkendy"**
 
     This bizarre phenomenon captured immediate attention, as the emitted phrase bore no linguistic correlation to any known Velboran language systems.
 
@@ -138,3 +138,35 @@ The Opera categorizes its collected sounds based on their primary observable pro
 ??? warning "(InProgress) 🎶 mus-31045 — Bioluminescent Ballad"
 ??? warning "(InProgress) ⚡ sfx-21901 — Quantum Snap Reverb"
 ??? warning "(InProgress) 🌍 phy-50113 — Gravity Well Collapse"
+
+
+---
+
+# 📋 Archive Expansion Plans
+
+Our ongoing research efforts aim to uncover and document:
+
+- The melancholic echoes of collapsing sunflowers (believed to exist on Planet Thryxx)
+- The debated existence of the so-called **"Laughing Void"** anomaly
+- A sound that can allegedly reset minor timelines if whistled off-key
+
+Further updates pending the return of the next Research Expeditionary Team (expected 3.7 millennia ago).
+
+---
+
+# 📜 Access Guidelines
+
+Researchers are encouraged to explore and study all listed sounds.  
+Unauthorized attempts to remix, weaponize, or bake with sound anomalies are strictly prohibited.
+
+Please consult your local Multiversal Ethics Board if in doubt.  
+(Or if you accidentally become a musical instrument.)
+
+---
+
+# 🧹 Maintenance Note
+
+Remember:  
+> "If you hear sounds that aren't listed, **run**.  
+Or bring a notebook. Either is acceptable."
+
