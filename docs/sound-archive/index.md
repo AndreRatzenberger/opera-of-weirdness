@@ -47,7 +47,7 @@ The Opera categorizes its collected sounds based on their primary observable pro
 
     <p align="center">
       <!-- Placeholder for your Flock Logo/Banner - Replace URL -->
-      <img alt="Opera architecture" src="/sound-archive/jelly/berliner.png" width="600">
+      <img alt="Opera architecture" src="assets/berliner.png" width="600">
       <br>
       <b align="center">Entity 7-B: The Confused Confection of Velbora</b>
     </p>
@@ -56,7 +56,7 @@ The Opera categorizes its collected sounds based on their primary observable pro
     ## 🔊 Sound Sample
 
     <audio controls>
-      <source src="/sound-archive/jelly/berliner.mp3" type="audio/mpeg">
+      <source src="assets/berliner.mp3" type="audio/mpeg">
       Your browser does not support the audio element.
     </audio>
 
