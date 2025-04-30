@@ -1,6 +1,7 @@
 # Researchers of the Opera of Weirdness
 
-The cosmic absurdities that echo through the halls of the Opera of Weirdness do not simply find themselves.
+The cosmic absurdities that echo through the halls of the Opera of Weirdness do not simply find themselves... well two sounds actually did, but they are the exception.
+
 They are sought, discovered, documented, and occasionally wrestled into submission by the Opera’s fearless team of researchers.
 
 Armed with curiosity, questionable judgment, and a wide array of highly experimental equipment (half of which may or may not violate the fundamental laws of physics), our researchers traverse the universe to capture the melodies no one else dares to hear.
