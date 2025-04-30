@@ -47,3 +47,14 @@
   .md-button:hover {
     box-shadow: 0 0 8px #00f7ff, 0 0 16px #ff00ff;
   }
+
+  table img {
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    margin-bottom: 10px;
+  }
+  table td {
+    padding: 20px;
+    vertical-align: top;
+    text-align: center;
+  }

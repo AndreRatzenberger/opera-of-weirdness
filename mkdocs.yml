@@ -32,8 +32,15 @@ theme:
 
 nav:
   - Home: index.md
-  - About: about.md
-  - Curiosities: curiosities/index.md
+  - The Opera of Weirdness: about.md
+  - The Universe:
+    - Overview: universe/index.md
+    - Groovitons: universe/groovitons.md
+  - Curiosities: 
+    - Overview: curiosities/index.md
+    - The Cosmic Symphony of the Nebula Whispers: curiosities/nebula_whispers.md
+    - The Cry of the Crystal Caverns : curiosities/crystal_caverns.md
+    - The Gravirhythm Wells of Singulon : curiosities/gravirhythm_wells.md
   - Researchers: researchers/index.md
   - Sound Archive:
       - Overview: sound-archive/index.md
