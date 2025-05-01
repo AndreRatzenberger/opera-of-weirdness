@@ -2,6 +2,10 @@
 
 > *“Built for speed. Tuned for groove. Cat-approved.”*
 
+<p align="center">
+  <img src="assets/mewsiform.png" alt="Mewsiform Accord" width="80%">
+</p>
+
 The **Mewsiform Accord** is the personal research vessel of **Senior Dimensional Sound Hunter Lucy the Cat** and currently the flagship of the Opera’s Field Research Division.
 
 Designed to explore high-weirdness zones and respond to irregular groove spikes in space-time, the Mewsiform Accord is renowned for both its adaptability and its uncanny ability to *accidentally* drift into pocket dimensions where the music is just a little too funky.
