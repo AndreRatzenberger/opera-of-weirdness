@@ -42,6 +42,24 @@ Proceed with an open mind, well-secured ear protection, and a tolerance for mino
     </a>
   </td>
 </tr>
+<tr>
+  <td align="center">
+  🎙️<br>
+    <a href="echo_chambers">
+      <img src="assets/echochamber.png" width="275"><br>
+      
+      <strong>The Echoes of the Enchanted Echo Chamber</strong>
+    </a>
+  </td>
+  <td align="center">
+  🧭<br>
+    <a href="lab">
+      <img src="assets/lab.png" width="275"><br>
+      
+      <strong>The Lullaby of the Living Labyrinth</strong>
+    </a>
+  </td>
+</tr>
 </table>
 
 

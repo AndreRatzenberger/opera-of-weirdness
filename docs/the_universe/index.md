@@ -12,7 +12,7 @@ While the Sound Archive catalogs what the universe sounds like, and the Curiosit
 
 | Topic | Description |
 |-------|-------------|
-| [Groovitons](groovitons.md) | The fundamental groove-carrying particle that makes both funk and gravity happen. |
+| [Groovitons](grooviton.md) | The fundamental groove-carrying particle that makes both funk and gravity happen. |
 | *(coming soon)* Plasmaphones | Musical instruments made from condensed lightning and one bad idea. |
 | *(coming soon)* The Lyrical Constant | The number of rhymes the universe allows per bar before bending time. |
 | *(coming soon)* The Geometry of Vibe | Why some dance moves open portals. |
@@ -28,7 +28,7 @@ Key moments that shaped the universe, or at least left a memorable dent:
 - **0.0000001 seconds after the Bang** — First sound emitted. Immediately went platinum.
 - **Cycle 7** — The first intergalactic groove war broke out. No casualties, but a lot of burned disco records.
 - **The Great Remix of the Orion Arm** — Caused by a misconfigured reality loop. History briefly repeated itself, but with more cowbell.
-- **Emergence of the Groovitons** — See: [Groovitons](groovitons.md). Caused by too much music in close gravitational proximity. Standard mistake.
+- **Emergence of the Groovitons** — See: [Groovitons](grooviton.md). Caused by too much music in close gravitational proximity. Standard mistake.
 - **Temporal Licensing Act of Sector 9** — Banned polyrhythmic time travel solos. Still under protest by the Temporal Jazz Guild.
 
 ---

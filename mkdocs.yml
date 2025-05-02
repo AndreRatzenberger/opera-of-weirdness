@@ -34,14 +34,19 @@ nav:
   - Home: index.md
   - The Opera of Weirdness: about.md
   - The Universe:
-    - Overview: universe/index.md
-    - Groovitons: universe/groovitons.md
+    - Overview: the_universe/index.md
+    - Groovitons: the_universe/grooviton.md
   - Curiosities: 
     - Overview: curiosities/index.md
     - The Cosmic Symphony of the Nebula Whispers: curiosities/nebula_whispers.md
     - The Cry of the Crystal Caverns : curiosities/crystal_caverns.md
     - The Gravirhythm Wells of Singulon : curiosities/gravirhythm_wells.md
+    - The Echoes of the Enchanted Echo Chamber: curiosities/echo_chambers.md
+    - The Lullaby of the Living Labyrinth: curiosities/lab.md
   - Researchers: researchers/index.md
+  - Fleet:
+    - Overview: fleet/index.md
+    - The Mewsiform Accord: fleet/mewsiform_accord.md
   - Sound Archive:
       - Overview: sound-archive/index.md
       - voc-17993 — Confused Confection of Velbora: sound-archive/voc-17993.md

@@ -2,7 +2,7 @@
 
 <p align="center">
   <!-- Placeholder for your Flock Logo/Banner - Replace URL -->
-  <img alt="Opera architecture" src="/assets/opera_architecture.webp" width="600">
+  <img alt="Opera architecture" src="/assets/opera_architecture.png" width="600">
   <p align="center">An early architectural concept of the opera which doesn't look like the final opera at all.</p>
 </p>
 
